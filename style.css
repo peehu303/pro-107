@@ -1,0 +1,54 @@
+body{
+       background: linear-gradient(white 0%, #46e037 100%);
+   
+}
+.header_div{
+background-color: #ffaf99;
+text-align: center;
+top: 0;
+left: 0;
+position: absolute;
+width: 100%;
+}
+.header_div h2{
+    font-size: 3em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(167, 206, 231);
+}
+.header_div p{
+    color: rgb(109, 114, 116);
+    text-shadow: 1.3px 1.3px aliceblue;
+    font-size: 1.5em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.main_container{
+    margin-top: 100px;
+}
+
+.main_container button{
+    height: 50px;
+    width: 250px;
+    padding: 10px;
+    background-color: rgb(22, 223, 223);
+    border: 5px solid white;
+    color: white;
+    border-radius: 10px;
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.main_container img {
+    border: 5px solid white;
+    border-radius: 35%;
+}
+.main_container h3{
+    color: rgb(109, 114, 116);
+}
+.footer_div{
+    background: #f79256;
+    color: white;
+    text-shadow: 2px 2px grey;
+    font-size: 1.5em; 
+    text-align: center; 
+}
